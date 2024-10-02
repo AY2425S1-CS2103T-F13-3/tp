@@ -7,7 +7,8 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "casper-ng": "Casper Ng"
+        "casper-ng": "Casper Ng",
+        "mervyn": "Mervyn"
       },
       "headingKeywords": {}
     },
@@ -137,6 +138,11 @@
       "headings": {
         "project-dream-day-designer": "Project: Dream Day Designer"
       },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/mervyn.md",
+      "headings": {},
       "headingKeywords": {}
     }
   ]
