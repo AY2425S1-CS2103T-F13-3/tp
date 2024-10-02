@@ -10,7 +10,8 @@
         "chen-yizhong": "Chen Yizhong",
         "casper-ng": "Casper Ng",
         "mervyn": "Mervyn",
-        "feng-yilong": "Feng Yilong"
+        "feng-yilong": "Feng Yilong",
+        "leslie": "Leslie"
       },
       "headingKeywords": {}
     },
@@ -130,6 +131,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "leslieyip02.md",
+      "title": "Leslie's Project Portfolio Page",
+      "headings": {
+        "project-dream-day-designer": "Project: Dream Day Designer"
       },
       "headingKeywords": {}
     },
