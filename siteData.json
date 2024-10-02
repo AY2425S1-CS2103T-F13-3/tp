@@ -7,11 +7,15 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
+        "mervyn": "Mervyn",
         "chen-yizhong": "Chen Yizhong",
         "casper-ng": "Casper Ng",
-        "mervyn": "Mervyn",
+        "leslie": "Leslie",
+        "yi-long": "Yi Long",
+        "casper-ng-2": "Casper Ng",
+        "mervyn-2": "Mervyn",
         "feng-yilong": "Feng Yilong",
-        "leslie": "Leslie"
+        "leslie-2": "Leslie"
       },
       "headingKeywords": {}
     },
@@ -114,6 +118,7 @@
         "create-a-new-contact-add": "Create a new contact: add",
         "listing-all-persons-view": "Listing all persons : view",
         "editing-a-person-edit": "Editing a person : edit",
+        "locating-contacts-by-tag-view-tag": "Locating contacts by tag: view /tag",
         "deleting-a-contact-delete": "Deleting a contact : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
