@@ -44,7 +44,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "dream-day-designer-developer-guide": "Dream Day Designer Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -111,13 +111,12 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "dream-day-designer-user-guide": "Dream Day Designer User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "create-a-new-contact-add": "Create a new contact: add",
         "listing-all-persons-view": "Listing all persons : view",
-        "editing-a-person-edit": "Editing a person : edit",
         "locating-contacts-by-tag-view-tag": "Locating contacts by tag: view /tag",
         "deleting-a-contact-delete": "Deleting a contact : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
