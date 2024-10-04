@@ -139,7 +139,23 @@
       "headingKeywords": {}
     },
     {
-      "src": "leslieyip02.md",
+      "src": "team/casperngeen.md",
+      "title": "Casper's Project Portfolio Page",
+      "headings": {
+        "project-dream-day-designer": "Project: Dream Day Designer"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/fyl2003.md",
+      "title": "Feng Yilong's Project Portfolio Page",
+      "headings": {
+        "project-dream-day-designer": "Project: Dream Day Designer"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/leslieyip02.md",
       "title": "Leslie's Project Portfolio Page",
       "headings": {
         "project-dream-day-designer": "Project: Dream Day Designer"
@@ -147,35 +163,18 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/casperngeen.md",
-      "headings": {
-        "layout-default-md-head-docs-team-casperngeen-md-title-and-quot-casper-s-project-portfolio-page-and-quot": "layout: default.md\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:docs/team/casperngeen.md\ntitle: &quot;Casper's Project Portfolio Page&quot;",
-        "project-dream-day-designer": "Project: Dream Day Designer",
-        "title-and-quot-feng-yilong-s-project-portfolio-page-and-quot": "========\ntitle: &quot;Feng Yilong's Project Portfolio Page&quot;",
-        "project": "Project: ???"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/fyl2003.md",
-      "headings": {
-        "layout-default-md-head-docs-team-casperngeen-md-title-and-quot-casper-s-project-portfolio-page-and-quot": "layout: default.md\n&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:docs/team/casperngeen.md\ntitle: &quot;Casper's Project Portfolio Page&quot;",
-        "project-dream-day-designer": "Project: Dream Day Designer",
-        "title-and-quot-feng-yilong-s-project-portfolio-page-and-quot": "========\ntitle: &quot;Feng Yilong's Project Portfolio Page&quot;",
-        "project": "Project: ???"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "team/mervyn.md",
-      "headings": {},
+      "title": "Mervyn's Project Portfolio Page",
+      "headings": {
+        "project-dream-day-designer": "Project: Dream Day Designer"
+      },
       "headingKeywords": {}
     },
     {
       "src": "team/yizhong187.md",
       "title": "Yizhong's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-dream-day-designer": "Project: Dream Day Designer"
       },
       "headingKeywords": {}
     }
