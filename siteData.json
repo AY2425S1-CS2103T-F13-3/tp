@@ -59,7 +59,11 @@
         "non-functional-requirements": "Non-Functional Requirements",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "adding-a-contact": "Adding a contact",
+        "adding-an-event": "Adding an event",
+        "editing-a-contact": "Editing a contact",
+        "listing": "Listing",
+        "deleting-a-record": "Deleting a record",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
